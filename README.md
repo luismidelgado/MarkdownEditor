@@ -1,4 +1,4 @@
-# Markdown Editor
+# Editor Markdown Online y local
 a.k.a. でんでんエディター (Llamado Denden Editor)
 
 Es una versión Japonesa de un editor online de Markdown y espero poder traducirlo.
